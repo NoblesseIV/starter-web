@@ -4,9 +4,10 @@
 # TEAM
 
     Jason Taylor Jason@git.trainig @awesomejt
+
 # THANKS
 
-    <name>
+  Thanks to all of my students. 
 
 # TECHNOLOGY COLOPHON
 
